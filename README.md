@@ -1,7 +1,7 @@
 # food-classification-language-model
 Classifies food into 3 categories: Vegan, Vegetarian and Non-vegetarian
 
-# Results:
+### Results:
 {'accuracy': 0.9166, 'precision': 0.9333, 'recall': 0.9166, 'f1_score': 0.9153}
 
 ### Model: 
